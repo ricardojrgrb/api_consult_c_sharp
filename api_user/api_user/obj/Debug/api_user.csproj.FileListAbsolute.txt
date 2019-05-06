@@ -1,0 +1,15 @@
+/Users/ricardojr/Library/Mobile Documents/com~apple~CloudDocs/Documents/Softwares Development/API_REST/api_user/api_user/bin/api_user.dll
+/Users/ricardojr/Library/Mobile Documents/com~apple~CloudDocs/Documents/Softwares Development/API_REST/api_user/api_user/bin/api_user.pdb
+/Users/ricardojr/Library/Mobile Documents/com~apple~CloudDocs/Documents/Softwares Development/API_REST/api_user/api_user/bin/Newtonsoft.Json.dll
+/Users/ricardojr/Library/Mobile Documents/com~apple~CloudDocs/Documents/Softwares Development/API_REST/api_user/api_user/bin/System.Net.Http.Formatting.dll
+/Users/ricardojr/Library/Mobile Documents/com~apple~CloudDocs/Documents/Softwares Development/API_REST/api_user/api_user/bin/System.Web.Http.dll
+/Users/ricardojr/Library/Mobile Documents/com~apple~CloudDocs/Documents/Softwares Development/API_REST/api_user/api_user/bin/System.Web.Http.WebHost.dll
+/Users/ricardojr/Library/Mobile Documents/com~apple~CloudDocs/Documents/Softwares Development/API_REST/api_user/api_user/bin/Newtonsoft.Json.xml
+/Users/ricardojr/Library/Mobile Documents/com~apple~CloudDocs/Documents/Softwares Development/API_REST/api_user/api_user/bin/System.Net.Http.Formatting.xml
+/Users/ricardojr/Library/Mobile Documents/com~apple~CloudDocs/Documents/Softwares Development/API_REST/api_user/api_user/bin/System.Web.Http.xml
+/Users/ricardojr/Library/Mobile Documents/com~apple~CloudDocs/Documents/Softwares Development/API_REST/api_user/api_user/bin/System.Web.Http.WebHost.xml
+/Users/ricardojr/Library/Mobile Documents/com~apple~CloudDocs/Documents/Softwares Development/API_REST/api_user/api_user/obj/Debug/api_user.csprojAssemblyReference.cache
+/Users/ricardojr/Library/Mobile Documents/com~apple~CloudDocs/Documents/Softwares Development/API_REST/api_user/api_user/obj/Debug/api_user.csproj.CoreCompileInputs.cache
+/Users/ricardojr/Library/Mobile Documents/com~apple~CloudDocs/Documents/Softwares Development/API_REST/api_user/api_user/obj/Debug/api_user.csproj.CopyComplete
+/Users/ricardojr/Library/Mobile Documents/com~apple~CloudDocs/Documents/Softwares Development/API_REST/api_user/api_user/obj/Debug/api_user.dll
+/Users/ricardojr/Library/Mobile Documents/com~apple~CloudDocs/Documents/Softwares Development/API_REST/api_user/api_user/obj/Debug/api_user.pdb
